@@ -38,24 +38,3 @@ Front-end: Letícia Policarpo
 
 ##
 
-Full Stack: Yasmin Vitória
-<p align="justify">
-  <a href="https://instagram.com/yasminv1" >
-    <img src="https://skillicons.dev/icons?i=instagram" />  
-  </a>
-   <a href="https://www.linkedin.com/in/yasmin-vitoria-0b7b12216/" >
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-   </a>
-</p>
-
-##
-
-Banco de dados: Sabrina Oliveira
-<p align="justify">
-  <a href="https://instagram.com/sabrinaa.oliveiira" >
-    <img src="https://skillicons.dev/icons?i=instagram" />  
-  </a>
-   <a href="https://www.linkedin.com/in/sabrina-oliveira-858048201/" >
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-   </a>
-</p>
